@@ -117,7 +117,7 @@ module.exports = function BaharrGuide(mod) {
 	mod.hook('S_SPAWN_ME', 3, (event) => {
 		if (!enabled || !insidemap) return;
 		setTimeout(() => {
-			sendMessage('Bem Vindo a ' + 'Bahaar's Rectum '.clr('56B4E9'));
+			sendMessage('Bem Vindo a: ' + 'Bahaar\'s Rectum '.clr('56B4E9'));
 			TEST1();
 		}, 3000);
 	});
@@ -178,7 +178,7 @@ module.exports = function BaharrGuide(mod) {
 								message: 'Waves soon...'
 							});*/
 							
-							alertMessage('ONDAS EM BREVE...');
+							alertMessage('Waves soon...');
 						}, 60000);
 						break;
 				}
@@ -278,8 +278,8 @@ module.exports = function BaharrGuide(mod) {
 			function sAbnormalityBegin(event) {
 				if (event.target !== bossId) return;
 				
-				if (event.id == 90442303) alertMessage('HEALER DEVE USAR (REGRESS) SKILL');
-				if (event.id == 90442304) alertMessage('PARE O BOSS USANDO SKILL DE STUN');
+				if (event.id == 90442303) alertMessage('Healer should use [Regress] skill');
+				if (event.id == 90442304) alertMessage('Stop the Boss using [Stun] skill');
 				
 				if (event.id == 90442000) shining = true;
 				if (event.id == 90442001) shining = false;
