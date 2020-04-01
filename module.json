@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Bahaar_Guia_PT-BR",
+    "author": "Owyn",
+	"translator": "Kamizuru",
+    "description": "Bahaar's Sanctum - Guia",
+    "options": {
+        "niceName": "Bahaar",
+        "guiName": "Bahaar_Guia_PT-BR"
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/KamizuruGames/Bahaar_Guia_PT-BR/master/"
+    ],
+    "supportUrl": "https://github.com/KamizuruGames/Bahaar_Guia_PT-BR/issues"
+}
