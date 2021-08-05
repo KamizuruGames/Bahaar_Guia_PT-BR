@@ -1,1 +1,30 @@
-{"data":{"README.md":"n9+zI01Rr/QhwAlg0tW8XmzcuYWa9bEEqv0vo7QGbk0=","config.json":"J98xhWVI7BEV89Zo0QW9tXk9WnHMAiWLmoeZNXNcFF4=","index.js":"6YhqK+MRe1HkzdPSKO1HxIBUw2Dp4HtLpAgOCJF/I88=","module.json":"J36H2t7ZXDsXobqCzANwx23bcxQx/a84QaOU3b5JpmE=","skillsList.js":"qvT4T6WS5s87fbANp0mj+lULRD7CFLmY0nz0fWqenV0="},"url":"https://raw.githubusercontent.com/KamizuruGames/Bahaar_Guia_PT-BR/master/","etag":"W/\"7a8eca156eb587f058f62b7bf0e5ab2aa3b1ff1d8a921960e6790b917c20ad73\""}
+{
+	"files": {
+		"README.md": "9fdfb3234d51aff421c00960d2d5bc5e6cdcb9859af5b104aafd2fa3b4066e4d",
+		"config.json": {
+			"overwrite": false,
+			"hash": "27df31856548ec1115f3d668d105bdb5793d5a71cc02258b9a879935735c145e"
+		},
+		"index.js": "27ac80576afc02c87216df0c4e5bbb0f932ffa88f65519851625579cc410758b",
+		"module.json": "277e87daded95c3b17a1ba82cc0370c76ddb731431fdaf3841a394ddbe49a661",
+		"skillsList.js": {
+			"overwrite": false,
+			"hash": "aaf4f84fa592e6cf3b7db00da749a3fa550b443ec214b998d27cf47d6a9e9d5d"
+		}
+	},
+	"defs": {
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ACTION_STAGE": 9,
+		"S_CHAT": 3,
+		"S_DESPAWN_BUILD_OBJECT": 2,
+		"S_DESPAWN_COLLECTION": 2,
+		"S_DESPAWN_DROPITEM": 4,
+		"S_DUNGEON_EVENT_MESSAGE": 2,
+		"S_LOAD_TOPO": 3,
+		"S_LOGIN": [13,14],
+		"S_SPAWN_BUILD_OBJECT": 2,
+		"S_SPAWN_COLLECTION": 4,
+		"S_SPAWN_DROPITEM": 9,
+		"S_SPAWN_ME": 3
+	}
+}
